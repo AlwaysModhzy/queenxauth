@@ -8,5 +8,10 @@
     "username": "rexa",
     "password": "rexa",
     "admin": true
+  },
+  {
+    "username": "pancing",
+    "password": "pan",
+    "admin": false
   }
 ]
