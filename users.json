@@ -3,5 +3,10 @@
     "username": "dzee",
     "password": "1",
     "admin": true
+  },
+  {
+    "username": "rexa",
+    "password": "rexa",
+    "admin": true
   }
 ]
